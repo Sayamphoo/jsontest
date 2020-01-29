@@ -12,10 +12,21 @@
       }
   ],
 
-  "viewItem": [
+  "viewitem": [
       {
           "id":0,
+          "tyep": 1,
           "name" : "00"
-      }
+      },
+      {
+        "id":1,
+        "tyep": 1,
+        "name" : "00"
+    },
+    {
+      "id":2,
+      "tyep": 1,
+      "name" : "00"
+    }
   ]
 }

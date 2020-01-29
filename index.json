@@ -1,0 +1,21 @@
+{
+  "viewimg": [
+    {
+      "id": 0,
+      "tyep": 1,
+      "imgUrl" : "https://d2tlksottdg9m1.cloudfront.net/uploads/2019/02/JSONSample.jpg"
+    },
+    {
+        "id": 0,
+        "tyep": 1,
+        "imgUrl" : "https://i.stack.imgur.com/ymDWH.png"
+      }
+  ],
+
+  "viewItem": [
+      {
+          "id":0,
+          "name" : "00"
+      }
+  ]
+}
